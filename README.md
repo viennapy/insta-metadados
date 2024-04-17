@@ -5,3 +5,6 @@
 • termux 
 • Windows 
 • Linux 
+
+# Instalação 
+
