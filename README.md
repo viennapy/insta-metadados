@@ -10,10 +10,10 @@ Ferramenta desenvolvida em python, com o intuito de autorizar a     extração d
 • Linux 
 
 # Funções
- Analisar o Perfil.
- Fazer download de postagens.
- Limpar terminal.
- Sair da ferramenta.
+ •Analisar o Perfil.
+ •Fazer download de postagens.
+ •Limpar terminal.
+ •Sair da ferramenta.
 
 
 # Instalação 
